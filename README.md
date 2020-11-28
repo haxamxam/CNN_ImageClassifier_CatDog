@@ -1,6 +1,6 @@
 # Cat & Dog CNN Image Classifier
 
-Using Python and Flask to deploy a custom trained CNN ML model based on cat and dog images.
+Using Python and Flask to deploy a custom trained CNN Machine Learning model based on cat and dog images.
 
 ## Installation
 
@@ -10,6 +10,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dep
 
 ```bash
 pip install -r requirements.txt
+
+|-- app
+        |-- app.js
+        |-- db.js
 ```
 
 ## Usage of the application
