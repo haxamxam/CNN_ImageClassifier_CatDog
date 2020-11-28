@@ -26,7 +26,7 @@ Upon execution the application will be served locally at:
 
 ![alt text](https://github.com/haxamxam/CNN_ImageClassifier_CatDog/blob/main/First_Image.png?raw=true)
 
-#### Predicted Image of the application
+#### Predicted Image through the application
 ![alt text](https://github.com/haxamxam/CNN_ImageClassifier_CatDog/blob/main/Predicted_Image.png?raw=true)
 
 
