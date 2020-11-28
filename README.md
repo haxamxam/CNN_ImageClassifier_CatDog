@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Data Setup
 
-Please ensure that your Data set up the following way
+Please ensure that your data is set up the following way
 ```bash
 |-- PetImages
         |-- Dog
@@ -24,7 +24,7 @@ Please ensure that your Data set up the following way
             |-- image2.jpg
         |-- Cat
             |-- image1.jpg
-            |-- image.jpg
+            |-- image2.jpg
 ```
 
 ## Usage of the application
