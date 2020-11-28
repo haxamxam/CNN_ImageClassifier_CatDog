@@ -11,9 +11,20 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dep
 ```bash
 pip install -r requirements.txt
 
-|-- app
-        |-- app.js
-        |-- db.js
+
+```
+
+## Data Setup
+
+Please ensure that your Data set up the following way
+```bash
+|-- PetImages
+        |-- Dog
+            |-- image1.jpg
+            |-- image2.jpg
+        |-- Cat
+            |-- image1.jpg
+            |-- image.jpg
 ```
 
 ## Usage of the application
