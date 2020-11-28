@@ -19,10 +19,10 @@ pip install -r requirements.txt
 Please ensure that your data is set up the following way
 ```bash
 |-- PetImages
-        |-- Dog
+        |-- Cat
             |-- image1.jpg
             |-- image2.jpg
-        |-- Cat
+        |-- Dog
             |-- image1.jpg
             |-- image2.jpg
 ```
