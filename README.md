@@ -4,7 +4,9 @@ Using Python and Flask to deploy a custom trained CNN ML model based on cat and 
 
 ## Installation
 
-Python 3.7 and venv in Pycharm used in this project. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies. 
+Python 3.7 and Virtualenv in Pycharm used in this project. 
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies. 
 
 ```bash
 pip install -r requirements.txt
