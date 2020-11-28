@@ -34,7 +34,7 @@ Upon execution the application will be served locally at:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
-#### Inspired From
+#### Inspiration
 
 *Deploying Keras models with Flask as Web Application*
 
