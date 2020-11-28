@@ -35,6 +35,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 
 #### Inspired From
+
+*Deploying Keras models with Flask as Web Application*
+
 [https://github.com/mtobeiyf/keras-flask-deploy-webapp](https://github.com/mtobeiyf/keras-flask-deploy-webapp)
 
 ## License
