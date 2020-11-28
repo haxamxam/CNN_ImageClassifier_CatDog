@@ -5,7 +5,7 @@ import cv2
 import random
 import pickle
 
-DATADIR = r'C:\Users\hamza\Desktop\SwinburneUnits\DataScience\DeepLearning\PetImages'
+DATADIR = r'C:\Users\your_username\Desktop\your_data_dir'
 CATEGORIES = ["Cat","Dog"]
 
 for category in CATEGORIES:
